@@ -1,0 +1,6 @@
+penúltimo ejerció 
+        
+		El valor del dolar el dia de hoy es: 808.41 <br>
+		El valor del euro el dia de hoy es: 886.71 <br>
+		El valor del UF el dia de hoy es: 31678.72 <br>
+		El valor del UTM el dia de hoy es: 55537 <br>
